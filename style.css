@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+.doctor-banner{
+    width:90%;
+    height: 90vh;
+}
+
+.center {
+    position: relative;
+    height: 90vh;
+   
+  }
+  
+  .banner-right {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
